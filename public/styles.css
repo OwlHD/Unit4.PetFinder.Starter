@@ -1,0 +1,27 @@
+.box {
+    display: flex;
+    flex-direction: row;
+}
+.ui-div {
+    border: 5px solid;
+    padding: 5px;
+    margin: 5px;
+}
+
+.single-pet {
+    border: 5px solid;
+    margin: 5px;
+    padding: 5px;
+}
+
+#div-two {
+    display: flex;
+    flex-direction: row;
+}
+
+#user, #data {
+    border: 5px solid;
+    width: 50%;
+    padding: 5px;
+    margin: 5px;
+}
